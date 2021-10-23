@@ -1,2 +1,2 @@
 # m3rt
-Repository
+ Hello ı am a 16 years old students from Turkey learning code.  
